@@ -45,3 +45,19 @@ body {
     transform: translateY(5px);
     margin: 0.2em;
 }
+
+.loader div:nth-child(1) {
+    background: rgb(221, 169, 255)
+}
+
+.loader div:nth-child(2) {
+    background: rgb(206, 132, 255)
+}
+
+.loader div:nth-child(3) {
+    background: rgb(188, 88, 255)
+}
+
+.loader div:nth-child(4) {
+    background: rgb(169, 41, 255)
+}
