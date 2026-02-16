@@ -70,3 +70,12 @@ body {
         transform: translateY(-65px);
     }
 }
+
+@keyframes anim2 {
+    0%, 100% {
+        transform: rotate(-10deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+}
