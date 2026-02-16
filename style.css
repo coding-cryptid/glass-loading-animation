@@ -3,3 +3,11 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+body {
+    background: linear-gradient(to right, #917173, #2a3b36, #432c52);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
