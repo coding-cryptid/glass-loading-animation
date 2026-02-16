@@ -1,3 +1,3 @@
 # Glass Loading Animation
 
-## About This Project 💻
+## About This Project
